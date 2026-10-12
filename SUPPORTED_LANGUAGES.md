@@ -21,6 +21,7 @@ Language | Tier | Queries
 [awk](https://github.com/Beaglefoot/tree-sitter-awk) | unstable | `H  J `
 [bash](https://github.com/tree-sitter/tree-sitter-bash) | unstable | `HFIJL`
 [bass](https://github.com/vito/tree-sitter-bass) | unstable | `HFIJL`
+[bats](https://github.com/nertzy/tree-sitter-bats) | stable | `HFIJL`
 [beancount](https://github.com/polarmutex/tree-sitter-beancount) | unstable | `HF J `
 [bibtex](https://github.com/latex-lsp/tree-sitter-bibtex) | unstable | `HFIJ `
 [bicep](https://github.com/tree-sitter-grammars/tree-sitter-bicep) | unstable | `HFIJL`
