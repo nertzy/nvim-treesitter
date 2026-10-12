@@ -81,6 +81,14 @@ return {
     },
     tier = 2,
   },
+  bats = {
+    install_info = {
+      revision = 'v0.1.0',
+      url = 'https://github.com/nertzy/tree-sitter-bats',
+    },
+    requires = { 'bash' },
+    tier = 1,
+  },
   beancount = {
     install_info = {
       revision = 'c8a9780610dbe8ade4888045b1f2caa7a0a9d8aa',
